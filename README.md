@@ -1,2 +1,1 @@
-# LPonli
-1projeto
+https://pagemanual.netlify.app/
